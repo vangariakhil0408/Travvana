@@ -1,30 +1,3 @@
-{
-  "id": "chang-la-pass",
-  "name": "Chang La Pass",
-  "city": "Changthang",
-  "state": "Ladakh",
-  "description": "One of the highest motorable roads in the world at an elevation of 5,360 meters (17,586 ft), featuring harsh winds, deep snow walls, and a small temple.",
-  "history": "Named after the sadhu Changla Baba to whom a temple is dedicated here.",
-  "famousFor": "Extreme altitude, snow walls, gateway to Pangong Tso.",
-  "bestTime": "May to September",
-  "timings": "Unknown",
-  "entryFee": "Free",
-  "image": "./assets/images/states/ladakh/file_0000000006487208a41ddd484b8168d3.png",
-  "heroImage": "./assets/images/states/ladakh/file_0000000006487208a41ddd484b8168d3.png",
-  "gallery": [
-    "./assets/images/states/ladakh/file_0000000006487208a41ddd484b8168d3.png"
-  ],
-  "nearbyPlaces": [
-    "tso-kar",
-    "magnetic-hill",
-    "thiksey-monastery",
-    "khardung-la",
-    "stok-palace",
-    "pathar-sahib",
-    "leh-city",
-    "leh-palace",
-    "hall-of-fame",
-    "kargil-town",
-    "shanti-stupa"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:502b8e4543c7dccffbf92be7d27631d0b8f6393059cf6c80c1039f681d07e9d3
+size 1050

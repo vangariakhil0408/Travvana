@@ -1,25 +1,3 @@
-{
-  "id": "kokernag",
-  "name": "Kokernag Botanical Garden",
-  "city": "Anantnag",
-  "state": "Jammu and Kashmir",
-  "description": "A sprawling, incredibly lush botanical garden featuring thousands of flowers, alpine trees, and a collection of freshwater springs that gush out from the base of a forested hill.",
-  "history": "The springs spread out in a pattern resembling the claws of a rooster ('Koker' means rooster, 'Nag' means spring).",
-  "famousFor": "Largest freshwater spring in Kashmir, trout fish hatchery, botanical gardens.",
-  "bestTime": "April to October",
-  "timings": "9:00 AM \u2013 7:00 PM",
-  "entryFee": "\u20b924",
-  "image": "./assets/images/states/jammu-and-kashmir/kokernag.png",
-  "heroImage": "./assets/images/states/jammu-and-kashmir/kokernag.png",
-  "gallery": [
-    "./assets/images/states/jammu-and-kashmir/kokernag.png"
-  ],
-  "nearbyPlaces": [
-    "martand-sun-temple",
-    "verinag-spring",
-    "sinthan-top",
-    "achabal",
-    "chatpal",
-    "daksum"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e00b71677392fd807b54764c4492202e9db955f16c06645b1d5c7657d58fed66
+size 1019

@@ -1,25 +1,3 @@
-{
-  "id": "gangeshwar-mahadev-temple",
-  "name": "Gangeshwar Mahadev Temple",
-  "city": "Diu",
-  "state": "Dadra and Nagar Haveli and Daman and Diu",
-  "description": "An ancient seaside cave temple where five Shiva lingas, believed to be established by the Pandavas, are naturally washed by the crashing waves of the Arabian Sea at high tide.",
-  "history": "Legend states that the five Pandava brothers created these lingas during their exile. The continuous bathing of the lingas by the ocean makes it a unique spiritual site.",
-  "famousFor": "Sea-washed Shiva lingas and Pandava legend.",
-  "bestTime": "October to March",
-  "timings": "6:00 AM \u2013 8:00 PM",
-  "entryFee": "Free",
-  "image": "./assets/images/states/dadra-nagar-haveli-daman-diu/gangeshwar-mahadev-temple.png",
-  "heroImage": "./assets/images/states/dadra-nagar-haveli-daman-diu/gangeshwar-mahadev-temple.png",
-  "gallery": [
-    "./assets/images/states/dadra-nagar-haveli-daman-diu/gangeshwar-mahadev-temple.png"
-  ],
-  "nearbyPlaces": [
-    "ghoghla-beach",
-    "ins-khukri-memorial",
-    "naida-caves",
-    "nagoa-beach",
-    "diu-fort",
-    "panikotha"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c54327afc03ca7e1ae1c6e5b1d3bfbaa221969b824f4c918d126f5fd72de1b6f
+size 1160

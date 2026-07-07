@@ -1,20 +1,3 @@
-{
-  "id": "little-andaman-lighthouse",
-  "name": "Little Andaman Lighthouse",
-  "city": "Little Andaman",
-  "state": "Andaman and Nicobar Islands",
-  "description": "A massive, towering 41-meter high lighthouse situated near the spectacular Butler Bay beach. Climbing the 200+ spiral stairs offers a jaw-dropping panoramic view of the island and ocean.",
-  "history": "Constructed to guide maritime traffic through the dangerous Ten Degree Channel separating the Andamans from the Nicobars.",
-  "famousFor": "Panoramic ocean views, 41m height, Ten Degree Channel.",
-  "bestTime": "October to May",
-  "timings": "8:00 AM \u2013 4:00 PM",
-  "entryFee": "\u20b920",
-  "image": "./assets/images/states/andaman-and-nicobar-islands/little-andaman-lighthouse.png",
-  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/little-andaman-lighthouse.png",
-  "gallery": [
-    "./assets/images/states/andaman-and-nicobar-islands/little-andaman-lighthouse.png"
-  ],
-  "nearbyPlaces": [
-    "butler-bay-beach"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4eabdab953a39ac71608d3cc31f527016ee88c3f8296721f34813c70d2bc713b
+size 1031

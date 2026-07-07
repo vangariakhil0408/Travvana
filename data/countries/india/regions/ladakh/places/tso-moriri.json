@@ -1,20 +1,3 @@
-{
-  "id": "tso-moriri",
-  "name": "Tso Moriri Lake",
-  "city": "Changthang",
-  "state": "Ladakh",
-  "description": "A highly secluded, stunning high-altitude lake sitting entirely within Indian territory. It's an important wetland reserve home to rare migratory birds like the Black-necked Crane.",
-  "history": "Declared as a Wetland of International Importance under the Ramsar Convention.",
-  "famousFor": "Untouched beauty, migratory birds, Korzok Monastery.",
-  "bestTime": "June to September",
-  "timings": "Open 24/7 (Inner Line Permit required)",
-  "entryFee": "Free (Permit fees apply)",
-  "image": "./assets/images/states/ladakh/file_000000004244720788aa216be94c4a6c.png",
-  "heroImage": "./assets/images/states/ladakh/file_000000004244720788aa216be94c4a6c.png",
-  "gallery": [
-    "./assets/images/states/ladakh/file_000000004244720788aa216be94c4a6c.png"
-  ],
-  "nearbyPlaces": [
-    "korzok-monastery"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b7711db14e2489f20d534a0173f1163a5b7c8bca1888ac2f2175a3eacd1a22d
+size 938

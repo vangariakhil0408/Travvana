@@ -1,20 +1,3 @@
-{
-  "id": "gulmarg-gondola",
-  "name": "Gulmarg Gondola",
-  "city": "Gulmarg",
-  "state": "Jammu and Kashmir",
-  "description": "One of the highest and longest cable cars in the world, taking visitors up to 3,979 meters on Mt. Apharwat for spectacular skiing and panoramic Himalayan views.",
-  "history": "Gulmarg, meaning 'Meadow of Flowers', was a favorite resort for Emperor Jahangir. The Gondola was built by a French company, Pomagalski.",
-  "famousFor": "Highest cable car, winter skiing, snow activities.",
-  "bestTime": "December to mid-April (Snow), May to September (Meadows)",
-  "timings": "9:00 AM \u2013 5:00 PM (Subject to weather)",
-  "entryFee": "Phase 1: \u20b9740, Phase 2: \u20b9950",
-  "image": "./assets/images/states/jammu-and-kashmir/gulmarg-gondola.png",
-  "heroImage": "./assets/images/states/jammu-and-kashmir/gulmarg-gondola.png",
-  "gallery": [
-    "./assets/images/states/jammu-and-kashmir/gulmarg-gondola.png"
-  ],
-  "nearbyPlaces": [
-    "alpather-lake"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce9f9b7a8d41f351e9128b199b6b5d7846b8c2ff1e84ee57f6e50ab89c74b18a
+size 1009

@@ -1,18 +1,3 @@
-{
-  "id": "kalpeni-island",
-  "name": "Kalpeni Island",
-  "city": "Kalpeni",
-  "state": "Lakshadweep",
-  "description": "Known for its massive lagoon and the Tip Beach, Kalpeni is a cluster of three islands: Cheriyam, Tilakkam, and Pitti.",
-  "history": "Heavily affected by the 1847 storm, which led to the formation of huge coral debris along its shores.",
-  "famousFor": "Snorkeling, reef walking, and the Tip Beach.",
-  "bestTime": "October to March",
-  "timings": "Open 24/7",
-  "entryFee": "Free (Permit Required)",
-  "image": "./assets/images/states/lakshadweep/file_000000005438720983e008c112a4d211.png",
-  "heroImage": "./assets/images/states/lakshadweep/file_000000005438720983e008c112a4d211.png",
-  "gallery": [
-    "./assets/images/states/lakshadweep/file_000000005438720983e008c112a4d211.png"
-  ],
-  "nearbyPlaces": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4eb8baf65fad30685aae5adfc6eb8bd6c7040b45be224a03e774c58f72a516b0
+size 833

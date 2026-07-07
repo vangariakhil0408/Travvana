@@ -1,27 +1,3 @@
-{
-  "id": "manipur",
-  "name": "Manipur",
-  "slug": "manipur",
-  "type": "state",
-  "capital": "Imphal",
-  "region": "northeast",
-  "language": [],
-  "bestTimeToVisit": "October to March",
-  "climate": "Varies",
-  "description": "Explore the wonders of Manipur. More destinations coming soon.",
-  "heroImage": "",
-  "gallery": [],
-  "stats": {
-    "totalDistricts": 0,
-    "totalPlaces": 0,
-    "avgRating": 0,
-    "totalReviews": 0
-  },
-  "categories": [],
-  "quickFacts": [],
-  "coordinates": {
-    "lat": 0,
-    "lng": 0
-  },
-  "nearbyStates": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:beb8601f79acdb56d4d5b6014b3f12976473d146db55cfd03677a7bb99908635
+size 551

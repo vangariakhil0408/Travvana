@@ -1,18 +1,3 @@
-{
-  "id": "orchha",
-  "name": "Orchha Heritage Town",
-  "city": "Orchha",
-  "state": "Madhya Pradesh",
-  "description": "A frozen-in-time medieval town on the banks of the Betwa River, famous for its magnificent palaces, cenotaphs (Chhatris), and the unique Ram Raja Temple.",
-  "history": "Founded in the 16th century by Bundela Rajput chief Rudra Pratap Singh. It served as the capital of the Bundelkhand state.",
-  "famousFor": "Jehangir Mahal, Ram Raja Temple, and Royal Chhatris.",
-  "bestTime": "October to March",
-  "timings": "8:00 AM \u2013 6:00 PM",
-  "entryFee": "\u20b910",
-  "image": "./assets/images/states/madhya-pradesh/Orchha-Heritage-Town.png",
-  "heroImage": "./assets/images/states/madhya-pradesh/Orchha-Heritage-Town.png",
-  "gallery": [
-    "./assets/images/states/madhya-pradesh/Orchha-Heritage-Town.png"
-  ],
-  "nearbyPlaces": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5e3ac917b90e56b66a53f988d3368b0a0ef7e140c1fccc2170fb6e122003c18
+size 872

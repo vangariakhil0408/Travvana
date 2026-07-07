@@ -1,27 +1,3 @@
-{
-  "id": "chhattisgarh",
-  "name": "Chhattisgarh",
-  "slug": "chhattisgarh",
-  "type": "state",
-  "capital": "Raipur",
-  "region": "central",
-  "language": [],
-  "bestTimeToVisit": "October to March",
-  "climate": "Varies",
-  "description": "Explore the wonders of Chhattisgarh. More destinations coming soon.",
-  "heroImage": "",
-  "gallery": [],
-  "stats": {
-    "totalDistricts": 0,
-    "totalPlaces": 0,
-    "avgRating": 0,
-    "totalReviews": 0
-  },
-  "categories": [],
-  "quickFacts": [],
-  "coordinates": {
-    "lat": 0,
-    "lng": 0
-  },
-  "nearbyStates": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdeacc3decdb6d6d04873a8a7c95f729a73cb983a6d60f32e145a6742a515562
+size 569

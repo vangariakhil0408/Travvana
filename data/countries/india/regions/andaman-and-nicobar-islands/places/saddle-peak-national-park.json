@@ -1,20 +1,3 @@
-{
-  "id": "saddle-peak-national-park",
-  "name": "Saddle Peak National Park",
-  "city": "Diglipur",
-  "state": "Andaman and Nicobar Islands",
-  "description": "Home to the highest point in the Andaman Islands at 732 meters, this national park offers challenging treks through pristine tropical rainforest with stunning panoramic views.",
-  "history": "Declared a national park in 1979 to protect the unique tropical evergreen and moist deciduous forests of North Andaman.",
-  "famousFor": "Highest peak in Andaman (732m) and tropical rainforest trekking",
-  "bestTime": "November to April",
-  "timings": "6:00 AM \u2013 4:00 PM",
-  "entryFee": "\u20b925",
-  "image": "./assets/images/states/andaman-and-nicobar-islands/saddle-peak-national-park.png",
-  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/saddle-peak-national-park.png",
-  "gallery": [
-    "./assets/images/states/andaman-and-nicobar-islands/saddle-peak-national-park.png"
-  ],
-  "nearbyPlaces": [
-    "ross-and-smith-islands"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:04fbe4fdfdaac888c84266d07063481f119e371bd0f4303cea1b8b61491d7d05
+size 1030

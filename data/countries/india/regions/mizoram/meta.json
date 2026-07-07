@@ -1,27 +1,3 @@
-{
-  "id": "mizoram",
-  "name": "Mizoram",
-  "slug": "mizoram",
-  "type": "state",
-  "capital": "Aizawl",
-  "region": "northeast",
-  "language": [],
-  "bestTimeToVisit": "October to March",
-  "climate": "Varies",
-  "description": "Explore the wonders of Mizoram. More destinations coming soon.",
-  "heroImage": "",
-  "gallery": [],
-  "stats": {
-    "totalDistricts": 0,
-    "totalPlaces": 0,
-    "avgRating": 0,
-    "totalReviews": 0
-  },
-  "categories": [],
-  "quickFacts": [],
-  "coordinates": {
-    "lat": 0,
-    "lng": 0
-  },
-  "nearbyStates": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1643802196c84ac2ca5c976faf218d1b73388c037bc5673a5497f4a9aa4f38d6
+size 551

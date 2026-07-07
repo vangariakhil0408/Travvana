@@ -1,20 +1,3 @@
-{
-  "id": "khajuraho-temples",
-  "name": "Khajuraho Group of Monuments",
-  "city": "Khajuraho",
-  "state": "Madhya Pradesh",
-  "description": "A UNESCO World Heritage site world-renowned for its stunning Nagara-style architecture and exquisite erotic sculptures that celebrate the divine harmony of life.",
-  "history": "Built by the Chandela dynasty between 950 and 1050 AD. Of the original 85 temples, 25 survive today, representing both Hindu and Jain faiths.",
-  "famousFor": "Intricate erotic carvings and UNESCO World Heritage temples.",
-  "bestTime": "October to March",
-  "timings": "6:00 AM \u2013 6:00 PM",
-  "entryFee": "\u20b940",
-  "image": "./assets/images/states/madhya-pradesh/Khajuraho-Group-of-Monuments.png",
-  "heroImage": "./assets/images/states/madhya-pradesh/Khajuraho-Group-of-Monuments.png",
-  "gallery": [
-    "./assets/images/states/madhya-pradesh/Khajuraho-Group-of-Monuments.png"
-  ],
-  "nearbyPlaces": [
-    "raneh-falls"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b2ffb2af934d4936663f6f1cfbd66c63092aaaa797c6af930ad143ed3fd91a1
+size 976

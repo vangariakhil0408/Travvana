@@ -1,20 +1,3 @@
-{
-  "id": "ross-and-smith-islands",
-  "name": "Ross and Smith Islands",
-  "city": "Diglipur",
-  "state": "Andaman and Nicobar Islands",
-  "description": "Twin islands joined by a shimmering sandbar that appears and disappears with the tide, offering surreal views.",
-  "history": "These islands are protected under forest conservation laws due to ecological sensitivity.",
-  "famousFor": "Sandbar connecting two islands",
-  "bestTime": "October to April",
-  "timings": "6:00 AM \u2013 5:00 PM",
-  "entryFee": "\u20b950",
-  "image": "./assets/images/states/andaman-and-nicobar-islands/ross-and-smith-islands.png",
-  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/ross-and-smith-islands.png",
-  "gallery": [
-    "./assets/images/states/andaman-and-nicobar-islands/ross-and-smith-islands.png"
-  ],
-  "nearbyPlaces": [
-    "saddle-peak-national-park"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8021d1bad1ecd34d9d4e56a5ff71a93d775f2de2f6cbaad1087429fb5d787211
+size 889

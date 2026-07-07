@@ -1,27 +1,3 @@
-{
-  "id": "dadra-nagar-haveli-daman-diu",
-  "name": "Dadra & Nagar Haveli and Daman & Diu",
-  "slug": "dadra-nagar-haveli-daman-diu",
-  "type": "ut",
-  "capital": "Daman",
-  "region": "west",
-  "language": [],
-  "bestTimeToVisit": "October to March",
-  "climate": "Varies",
-  "description": "Explore the wonders of Dadra & Nagar Haveli and Daman & Diu. More destinations coming soon.",
-  "heroImage": "",
-  "gallery": [],
-  "stats": {
-    "totalDistricts": 0,
-    "totalPlaces": 0,
-    "avgRating": 0,
-    "totalReviews": 0
-  },
-  "categories": [],
-  "quickFacts": [],
-  "coordinates": {
-    "lat": 0,
-    "lng": 0
-  },
-  "nearbyStates": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1d656f2dc87b3dd87445ca0baf4262dd514325dc21744d8633a3cc4a29e941c
+size 642

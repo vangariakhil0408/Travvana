@@ -1,29 +1,3 @@
-{
-  "id": "govt-museum-art-gallery",
-  "name": "Government Museum & Art Gallery",
-  "city": "Chandigarh",
-  "state": "Chandigarh",
-  "description": "A Le Corbusier-designed museum housing an extraordinary collection of Gandhara sculptures, Pahari miniature paintings, and contemporary Indian art in a modernist setting.",
-  "history": "Established in 1947 and designed by Le Corbusier. Houses one of the finest collections of Gandharan Buddhist art outside Afghanistan and Pakistan.",
-  "famousFor": "Gandhara sculptures, Pahari paintings, and Le Corbusier architecture.",
-  "bestTime": "October to March",
-  "timings": "10:00 AM \u2013 4:30 PM (Closed on Mondays)",
-  "entryFee": "\u20b910",
-  "image": "./assets/images/states/chandigarh/govt-museum-art-gallery.png",
-  "heroImage": "./assets/images/states/chandigarh/govt-museum-art-gallery.png",
-  "gallery": [
-    "./assets/images/states/chandigarh/govt-museum-art-gallery.png"
-  ],
-  "nearbyPlaces": [
-    "capitol-complex",
-    "le-corbusier-centre",
-    "japanese-garden",
-    "rock-garden",
-    "international-dolls-museum",
-    "sukhna-lake",
-    "terraced-garden",
-    "rose-garden",
-    "garden-of-silence",
-    "leisure-valley"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:02ce556db309080884457b7ea9d82bf3bb569c4705272bff08c60878473ef543
+size 1223

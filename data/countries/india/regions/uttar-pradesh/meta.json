@@ -1,27 +1,3 @@
-{
-  "id": "uttar-pradesh",
-  "name": "Uttar Pradesh",
-  "slug": "uttar-pradesh",
-  "type": "state",
-  "capital": "Lucknow",
-  "region": "north",
-  "language": [],
-  "bestTimeToVisit": "October to March",
-  "climate": "Varies",
-  "description": "Explore the wonders of Uttar Pradesh. More destinations coming soon.",
-  "heroImage": "",
-  "gallery": [],
-  "stats": {
-    "totalDistricts": 0,
-    "totalPlaces": 0,
-    "avgRating": 0,
-    "totalReviews": 0
-  },
-  "categories": [],
-  "quickFacts": [],
-  "coordinates": {
-    "lat": 0,
-    "lng": 0
-  },
-  "nearbyStates": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3df028dc7e00cc2b116ba245e000523d5ee639dc96591f4da4f256a31051181b
+size 572

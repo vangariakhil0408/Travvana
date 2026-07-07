@@ -1,27 +1,3 @@
-{
-  "id": "gujarat",
-  "name": "Gujarat",
-  "slug": "gujarat",
-  "type": "state",
-  "capital": "Gandhinagar",
-  "region": "west",
-  "language": [],
-  "bestTimeToVisit": "October to March",
-  "climate": "Varies",
-  "description": "Explore the wonders of Gujarat. More destinations coming soon.",
-  "heroImage": "",
-  "gallery": [],
-  "stats": {
-    "totalDistricts": 0,
-    "totalPlaces": 0,
-    "avgRating": 0,
-    "totalReviews": 0
-  },
-  "categories": [],
-  "quickFacts": [],
-  "coordinates": {
-    "lat": 0,
-    "lng": 0
-  },
-  "nearbyStates": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a1903afe845e099e2725f15dd938b168152f372a321069f8cc671329043108a
+size 551

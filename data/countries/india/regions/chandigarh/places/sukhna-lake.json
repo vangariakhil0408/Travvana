@@ -1,29 +1,3 @@
-{
-  "id": "sukhna-lake",
-  "name": "Sukhna Lake",
-  "city": "Chandigarh",
-  "state": "Chandigarh",
-  "description": "A serene man-made lake nestled at the foothills of the Shivalik range, where golden sunsets paint the water while joggers, boaters, and artists gather along its tranquil promenade.",
-  "history": "Created in 1958 by damming the Sukhna Choe stream as part of Le Corbusier's city plan. Declared a protected wetland and bird sanctuary.",
-  "famousFor": "Sunset views, boating, birdwatching",
-  "bestTime": "October to March",
-  "timings": "5:00 AM \u2013 9:00 PM",
-  "entryFee": "Free",
-  "image": "./assets/images/states/chandigarh/sukhna-lake.png",
-  "heroImage": "./assets/images/states/chandigarh/sukhna-lake.png",
-  "gallery": [
-    "./assets/images/states/chandigarh/sukhna-lake.png"
-  ],
-  "nearbyPlaces": [
-    "terraced-garden",
-    "garden-of-silence",
-    "rose-garden",
-    "international-dolls-museum",
-    "leisure-valley",
-    "capitol-complex",
-    "le-corbusier-centre",
-    "rock-garden",
-    "govt-museum-art-gallery",
-    "japanese-garden"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e5a134ade7e025b9c0a637530597ec53744b484d162d0de80e02fbb2bdc6ba1
+size 1107

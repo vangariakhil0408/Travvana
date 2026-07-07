@@ -1,21 +1,3 @@
-{
-  "id": "turtuk-village",
-  "name": "Turtuk Village",
-  "city": "Nubra",
-  "state": "Ladakh",
-  "description": "A breathtaking, culturally rich Balti village located right near the Line of Control (LoC). It offers lush apricot orchards and a unique window into Balti culture.",
-  "history": "Opened to tourists in 2010. It was under Pakistani control until the 1971 war when India reclaimed it.",
-  "famousFor": "Balti culture, apricot orchards, K2 mountain views.",
-  "bestTime": "May to September",
-  "timings": "Open 24/7",
-  "entryFee": "Free (Inner Line Permit required)",
-  "image": "./assets/images/states/ladakh/file_0000000096ac72089e748ba010a713b2.png",
-  "heroImage": "./assets/images/states/ladakh/file_0000000096ac72089e748ba010a713b2.png",
-  "gallery": [
-    "./assets/images/states/ladakh/file_0000000096ac72089e748ba010a713b2.png"
-  ],
-  "nearbyPlaces": [
-    "nubra-valley",
-    "diskit-monastery"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a115c9ff82e48d12c5c5276afc005a133ad7980e25c89cd359268174ebffca7e
+size 942

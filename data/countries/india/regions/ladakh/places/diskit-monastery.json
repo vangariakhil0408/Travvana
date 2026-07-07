@@ -1,21 +1,3 @@
-{
-  "id": "diskit-monastery",
-  "name": "Diskit Monastery",
-  "city": "Nubra",
-  "state": "Ladakh",
-  "description": "The oldest and largest surviving Buddhist monastery in Nubra Valley, famous for the magnificent 32-meter tall statue of Maitreya Buddha facing down the Shyok river.",
-  "history": "Founded by Changzem Tserab Zangpo, a disciple of Tsong Khapa, in the 14th century.",
-  "famousFor": "Giant Maitreya Buddha, ancient Tibetan artifacts, panoramic valley views.",
-  "bestTime": "May to September",
-  "timings": "7:00 AM \u2013 1:00 PM, 2:00 PM \u2013 7:00 PM",
-  "entryFee": "\u20b930",
-  "image": "./assets/images/states/ladakh/file_000000000b447209a3179c80fde0c12f.png",
-  "heroImage": "./assets/images/states/ladakh/file_000000000b447209a3179c80fde0c12f.png",
-  "gallery": [
-    "./assets/images/states/ladakh/file_000000000b447209a3179c80fde0c12f.png"
-  ],
-  "nearbyPlaces": [
-    "turtuk-village",
-    "nubra-valley"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b199f9fe23760c9f01abcc4275e8f39bd01037cf88a0486a10dcf239d9ffc777
+size 959

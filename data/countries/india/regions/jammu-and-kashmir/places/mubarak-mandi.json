@@ -1,25 +1,3 @@
-{
-  "id": "mubarak-mandi",
-  "name": "Mubarak Mandi Palace",
-  "city": "Jammu",
-  "state": "Jammu and Kashmir",
-  "description": "A grand, sprawling royal palace complex that served as the principal residence of the Dogra Kings. It boasts a unique blend of Rajasthani, Mughal, and European architecture.",
-  "history": "The oldest building in the complex dates back to 1824. The complex once housed the famed Golden Bow and Arrow of Emperor Shah Jahan.",
-  "famousFor": "Royal Dogra history, mixed architecture, Dogra Art Museum.",
-  "bestTime": "October to April",
-  "timings": "10:30 AM \u2013 4:30 PM (Museum)",
-  "entryFee": "\u20b920 (Museum)",
-  "image": "./assets/images/states/jammu-and-kashmir/mubarak-mandi.png",
-  "heroImage": "./assets/images/states/jammu-and-kashmir/mubarak-mandi.png",
-  "gallery": [
-    "./assets/images/states/jammu-and-kashmir/mubarak-mandi.png"
-  ],
-  "nearbyPlaces": [
-    "bahu-fort",
-    "akhnoor-fort",
-    "mansar-lake",
-    "purmandal",
-    "surinsar-lake",
-    "raghunath-temple"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:77240fcb91a02cea517b23e7dece0e43dfb5e71405fbfb96b71cca22868cb146
+size 1051

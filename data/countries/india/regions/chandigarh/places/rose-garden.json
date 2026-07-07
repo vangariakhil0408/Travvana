@@ -1,29 +1,3 @@
-{
-  "id": "rose-garden",
-  "name": "Zakir Hussain Rose Garden",
-  "city": "Chandigarh",
-  "state": "Chandigarh",
-  "description": "Asia's largest rose garden spread across 30 acres, bursting with over 1,600 species of roses in a rainbow of colors, alongside medicinal herb sections and ornamental trees.",
-  "history": "Established in 1967 and named after India's third President, Zakir Hussain. Hosts the famous annual Rose Festival every February-March.",
-  "famousFor": "Asia's largest rose garden, 1, 600+ rose species",
-  "bestTime": "February to March (Rose Festival), October to March",
-  "timings": "6:00 AM \u2013 10:00 PM",
-  "entryFee": "\u20b930",
-  "image": "./assets/images/states/chandigarh/rose-garden.png",
-  "heroImage": "./assets/images/states/chandigarh/rose-garden.png",
-  "gallery": [
-    "./assets/images/states/chandigarh/rose-garden.png"
-  ],
-  "nearbyPlaces": [
-    "leisure-valley",
-    "garden-of-silence",
-    "international-dolls-museum",
-    "sukhna-lake",
-    "terraced-garden",
-    "capitol-complex",
-    "govt-museum-art-gallery",
-    "le-corbusier-centre",
-    "japanese-garden",
-    "rock-garden"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bee0401c62a1bbbd07072fa337551bf30fdb60c59e76c210c34dee2115955e87
+size 1166

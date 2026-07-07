@@ -1,27 +1,3 @@
-{
-  "id": "andaman-and-nicobar",
-  "name": "Andaman & Nicobar Islands",
-  "slug": "andaman-and-nicobar",
-  "type": "ut",
-  "capital": "Port Blair",
-  "region": "south",
-  "language": [],
-  "bestTimeToVisit": "October to March",
-  "climate": "Varies",
-  "description": "Explore the wonders of Andaman & Nicobar Islands. More destinations coming soon.",
-  "heroImage": "",
-  "gallery": [],
-  "stats": {
-    "totalDistricts": 0,
-    "totalPlaces": 0,
-    "avgRating": 0,
-    "totalReviews": 0
-  },
-  "categories": [],
-  "quickFacts": [],
-  "coordinates": {
-    "lat": 0,
-    "lng": 0
-  },
-  "nearbyStates": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:787426348d6674cfa27777b2a0221afd002b5b8b2c435d58b279ae9801de2db0
+size 608

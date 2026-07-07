@@ -1,18 +1,3 @@
-{
-  "id": "pangong-lake",
-  "name": "Pangong Tso Lake",
-  "city": "Changthang",
-  "state": "Ladakh",
-  "description": "A breathtaking high-altitude endorheic lake situated at 4,350 meters. Famous for constantly changing colors from brilliant blue to green to red.",
-  "history": "A disputed territory with 60% of the lake lying in China. Popularized globally by the movie '3 Idiots'.",
-  "famousFor": "Color-changing waters, high-altitude camping, cinematic landscapes.",
-  "bestTime": "May to September",
-  "timings": "Open 24/7 (Inner Line Permit required)",
-  "entryFee": "Free (Permit fees apply)",
-  "image": "./assets/images/states/ladakh/file_0000000004807208bfb225ba1db2b925.png",
-  "heroImage": "./assets/images/states/ladakh/file_0000000004807208bfb225ba1db2b925.png",
-  "gallery": [
-    "./assets/images/states/ladakh/file_0000000004807208bfb225ba1db2b925.png"
-  ],
-  "nearbyPlaces": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1834cec6f7f72091129edcd2958066817bbce1b24d372d9642cedc74b99e738
+size 916

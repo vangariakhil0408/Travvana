@@ -1,24 +1,3 @@
-{
-  "id": "amarnath-cave",
-  "name": "Amarnath Cave Temple",
-  "city": "Pahalgam",
-  "state": "Jammu and Kashmir",
-  "description": "One of the most revered Hindu shrines, located at 3,888 meters. It is famous for a natural ice stalagmite that forms inside the cave, worshipped as the Shiva Linga.",
-  "history": "According to legend, this is the exact cave where Lord Shiva explained the secret of life and eternity to Goddess Parvati.",
-  "famousFor": "Natural ice Shiva Linga, highly challenging pilgrimage trek.",
-  "bestTime": "July to August (During the Yatra only)",
-  "timings": "Unknown",
-  "entryFee": "Free (Registration required)",
-  "image": "./assets/images/states/jammu-and-kashmir/bhairavnath-temple.png",
-  "heroImage": "./assets/images/states/jammu-and-kashmir/bhairavnath-temple.png",
-  "gallery": [
-    "./assets/images/states/jammu-and-kashmir/bhairavnath-temple.png"
-  ],
-  "nearbyPlaces": [
-    "betaab-valley",
-    "aru-valley",
-    "chandanwari",
-    "tulian-lake",
-    "baisaran-valley"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:aadaa59aca9bcc9f4ba89269d7477ed7fb758d9cab70eb20af3b0c1c69dd2667
+size 1041

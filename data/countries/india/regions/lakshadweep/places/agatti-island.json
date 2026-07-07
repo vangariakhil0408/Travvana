@@ -1,20 +1,3 @@
-{
-  "id": "agatti-island",
-  "name": "Agatti Island",
-  "city": "Agatti",
-  "state": "Lakshadweep",
-  "description": "Agatti has one of the most beautiful lagoons in the world. It is the only island with an airport, serving as the primary gateway to the archipelago.",
-  "history": "Historically a fishing hub, it became the primary entry point for tourism due to its airstrip built in the 1980s.",
-  "famousFor": "Crystal clear lagoons, water sports, only airport in Lakshadweep.",
-  "bestTime": "October to March",
-  "timings": "Open 24/7",
-  "entryFee": "Free (Permit Required)",
-  "image": "./assets/images/states/lakshadweep/file_000000000fec72068de8ef079a2f93f9.png",
-  "heroImage": "./assets/images/states/lakshadweep/file_000000000fec72068de8ef079a2f93f9.png",
-  "gallery": [
-    "./assets/images/states/lakshadweep/file_000000000fec72068de8ef079a2f93f9.png"
-  ],
-  "nearbyPlaces": [
-    "bangaram-atoll"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f1e353b64511793d88f10c1f9b48525facdc41710cb3929a6c73c758603c256
+size 918

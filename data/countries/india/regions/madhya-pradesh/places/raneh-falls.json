@@ -1,20 +1,3 @@
-{
-  "id": "raneh-falls",
-  "name": "Raneh Falls & Canyon",
-  "city": "Khajuraho",
-  "state": "Madhya Pradesh",
-  "description": "Often called the 'Grand Canyon of India', this stunning natural wonder features a deep gorge of multi-colored crystalline granite formed by the Ken River.",
-  "history": "A natural geological marvel where the Ken River flows through a 5 km long and 100 ft deep canyon made of five different types of granite.",
-  "famousFor": "Multi-colored canyon rocks and roaring waterfalls.",
-  "bestTime": "September to March",
-  "timings": "9:00 AM \u2013 5:00 PM",
-  "entryFee": "\u20b950",
-  "image": "./assets/images/states/madhya-pradesh/raneh-falls-and-canyon.png",
-  "heroImage": "./assets/images/states/madhya-pradesh/raneh-falls-and-canyon.png",
-  "gallery": [
-    "./assets/images/states/madhya-pradesh/raneh-falls-and-canyon.png"
-  ],
-  "nearbyPlaces": [
-    "khajuraho-temples"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7756711ac0d36936e5b4059b687d1e4a3d875a04cecf7588476b00ec07dd6f9
+size 931

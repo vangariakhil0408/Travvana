@@ -15,7 +15,7 @@ export function stateCard(state, options = {}) {
   const gradient = STATE_GRADIENTS[state.slug] || STATE_GRADIENTS[state.id] || 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)';
   
   const imageHTML = state.heroImage
-    ? `<img class="card__image" src="${state.heroImage}" alt="${state.name}" loading="lazy">`
+    ? `<img class="card__image lazy-img" data-src="${state.heroImage}" alt="${state.name}" loading="lazy" decoding="async">`
     : `<div class="state-card__gradient" style="background: ${gradient}"></div>`;
 
   if (size === 'compact') {
@@ -66,7 +66,7 @@ export function stateCardFeatured(state) {
   const gradient = STATE_GRADIENTS[state.slug] || 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)';
   
   const imageHTML = state.heroImage
-    ? `<img class="card__image" src="${state.heroImage}" alt="${state.name}" loading="lazy">`
+    ? `<img class="card__image lazy-img" data-src="${state.heroImage}" alt="${state.name}" loading="lazy" decoding="async">`
     : `<div class="state-card__gradient" style="background: ${gradient}"></div>`;
 
   return `

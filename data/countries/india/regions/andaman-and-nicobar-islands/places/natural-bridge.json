@@ -1,27 +1,3 @@
-{
-  "id": "natural-bridge",
-  "name": "Natural Bridge (Howrah Bridge)",
-  "city": "Shaheed Dweep",
-  "state": "Andaman and Nicobar Islands",
-  "description": "A stunning natural rock arch formation carved by centuries of tidal action, standing as a geological masterpiece over the turquoise sea.",
-  "history": "Formed over millennia by the erosive action of waves on coral rock, it is locally nicknamed Howrah Bridge after Kolkata's famous bridge.",
-  "famousFor": "Natural coral rock arch formation",
-  "bestTime": "October to April",
-  "timings": "Open 24/7 (best at low tide)",
-  "entryFee": "Free",
-  "image": "./assets/images/states/andaman-and-nicobar-islands/natural-bridge.png",
-  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/natural-bridge.png",
-  "gallery": [
-    "./assets/images/states/andaman-and-nicobar-islands/natural-bridge.png"
-  ],
-  "nearbyPlaces": [
-    "sitapur-beach",
-    "bharatpur-beach",
-    "laxmanpur-beach",
-    "radhanagar-beach",
-    "vijaynagar-beach",
-    "havelock-island-diving",
-    "elephant-beach",
-    "kalapathar-beach"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b5df87aa51166aae09e5765d9912d7bafedab7d209d83fc115f7ae477a80315
+size 1113

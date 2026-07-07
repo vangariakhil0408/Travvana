@@ -1,27 +1,3 @@
-{
-  "id": "lakshadweep",
-  "name": "Lakshadweep",
-  "slug": "lakshadweep",
-  "type": "ut",
-  "capital": "Kavaratti",
-  "region": "south",
-  "language": [],
-  "bestTimeToVisit": "October to March",
-  "climate": "Varies",
-  "description": "Explore the wonders of Lakshadweep. More destinations coming soon.",
-  "heroImage": "",
-  "gallery": [],
-  "stats": {
-    "totalDistricts": 0,
-    "totalPlaces": 0,
-    "avgRating": 0,
-    "totalReviews": 0
-  },
-  "categories": [],
-  "quickFacts": [],
-  "coordinates": {
-    "lat": 0,
-    "lng": 0
-  },
-  "nearbyStates": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cf5a795d545776626efb29e652edb355c2c97ca7c078db20a497cb0bda5b95e
+size 563

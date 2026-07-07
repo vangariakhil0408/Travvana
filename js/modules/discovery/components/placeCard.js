@@ -18,7 +18,7 @@ export function placeCard(place, options = {}) {
   const categoryClass = place.category ? `tag--${place.category}` : '';
   
   const imageHTML = thumbnail
-    ? `<img class="card__image" src="${thumbnail}" alt="${place.name}" loading="lazy" onerror="${onErrorHandler()}">`
+    ? `<img class="card__image lazy-img" data-src="${thumbnail}" alt="${place.name}" loading="lazy" decoding="async" onerror="${onErrorHandler()}">`
     : `<div style="width:100%;height:100%;background:linear-gradient(135deg,#f5f5f5,#e8e8e8);display:flex;align-items:center;justify-content:center;flex-direction:column;gap:6px;color:#aaa;font-size:0.75rem;"><svg width='28' height='28' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='1.5'><rect x='3' y='3' width='18' height='18' rx='3'/><circle cx='8.5' cy='8.5' r='1.5'/><path d='M21 15l-5-5L5 21'/></svg><span>Image coming soon</span></div>`;
 
   const stateLabel = showState && place.stateId
@@ -59,7 +59,7 @@ export function placeCard(place, options = {}) {
 export function placeCardHorizontal(place) {
   return `
     <a class="nearby-card" href="place-detail.html#place=${place.slug || place.id}" data-place-id="${place.slug || place.id}" id="horizontal-card-${place.slug || place.id}">
-      ${(resolveImage(place) || place.images?.main || place.thumbnail || place.image) ? `<img class="nearby-card__image" src="${resolveImage(place) || place.images?.main || place.thumbnail || place.image}" alt="${place.name}" loading="lazy" onerror="${onErrorHandler()}">` : `<div class="nearby-card__image" style="background:linear-gradient(135deg,#f5f5f5,#e8e8e8);display:flex;align-items:center;justify-content:center;color:#aaa;"><svg width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='1.5'><rect x='3' y='3' width='18' height='18' rx='3'/></svg></div>`}
+      ${(resolveImage(place) || place.images?.main || place.thumbnail || place.image) ? `<img class="nearby-card__image lazy-img" data-src="${resolveImage(place) || place.images?.main || place.thumbnail || place.image}" alt="${place.name}" loading="lazy" decoding="async" onerror="${onErrorHandler()}">` : `<div class="nearby-card__image" style="background:linear-gradient(135deg,#f5f5f5,#e8e8e8);display:flex;align-items:center;justify-content:center;color:#aaa;"><svg width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='1.5'><rect x='3' y='3' width='18' height='18' rx='3'/></svg></div>`}
       <div class="nearby-card__info">
         <h4 class="nearby-card__title">${place.name}</h4>
         <span class="nearby-card__distance">${place.category || ''}</span>

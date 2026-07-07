@@ -1,24 +1,3 @@
-{
-  "id": "betaab-valley",
-  "name": "Betaab Valley",
-  "city": "Pahalgam",
-  "state": "Jammu and Kashmir",
-  "description": "A breathtaking valley surrounded by lush green meadows, snow-clad mountains, and dense pine and deodar forests, with the crystal-clear Lidder River flowing through it.",
-  "history": "Originally called Hajan Valley, it was renamed 'Betaab' after the hit 1983 Bollywood movie of the same name was shot here.",
-  "famousFor": "Lush meadows, Bollywood filming location, Lidder river.",
-  "bestTime": "April to October",
-  "timings": "8:00 AM \u2013 6:00 PM",
-  "entryFee": "\u20b9100",
-  "image": "./assets/images/states/jammu-and-kashmir/betaab-valley.png",
-  "heroImage": "./assets/images/states/jammu-and-kashmir/betaab-valley.png",
-  "gallery": [
-    "./assets/images/states/jammu-and-kashmir/betaab-valley.png"
-  ],
-  "nearbyPlaces": [
-    "amarnath-cave",
-    "aru-valley",
-    "tulian-lake",
-    "chandanwari",
-    "baisaran-valley"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c92f5ca8d6d73e6d400228c0dae821b7d38284709f229295f681a7085cf5a9a
+size 991

@@ -1,21 +1,3 @@
-{
-  "id": "kavaratti-island",
-  "name": "Kavaratti Island",
-  "city": "Kavaratti",
-  "state": "Lakshadweep",
-  "description": "The administrative capital of Lakshadweep, known for its beautiful mosques, white sand beaches, and the Marine Aquarium.",
-  "history": "The headquarters of the Union Territory since 1964. It is the most developed island in the archipelago.",
-  "famousFor": "Ujra Mosque, Marine Aquarium, Glass bottom boat rides.",
-  "bestTime": "October to March",
-  "timings": "Open 24/7",
-  "entryFee": "Free (Permit Required)",
-  "image": "./assets/images/states/lakshadweep/file_000000002ff471fab1813d5ec8f7bf43.png",
-  "heroImage": "./assets/images/states/lakshadweep/file_000000002ff471fab1813d5ec8f7bf43.png",
-  "gallery": [
-    "./assets/images/states/lakshadweep/file_000000002ff471fab1813d5ec8f7bf43.png"
-  ],
-  "nearbyPlaces": [
-    "pitti-bird-sanctuary",
-    "thinnakara-island"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6605070a90f959ee455cf12379c40ba39f1e7d39d3bf9613f7e026a45e3cd2c
+size 909

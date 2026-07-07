@@ -1,29 +1,3 @@
-{
-  "id": "leisure-valley",
-  "name": "Leisure Valley",
-  "city": "Chandigarh",
-  "state": "Chandigarh",
-  "description": "An 8-km green belt running through the heart of Chandigarh, linking themed gardens \u2014 from bougainvillea to hibiscus \u2014 creating a continuous urban parkland unlike any other Indian city.",
-  "history": "Part of Le Corbusier's original city masterplan, designed as a continuous green lung stretching across the city. Houses multiple themed gardens and art installations.",
-  "famousFor": "City-wide green corridor, themed gardens, and public art.",
-  "bestTime": "October to March",
-  "timings": "Open 24/7",
-  "entryFee": "Free",
-  "image": "./assets/images/states/chandigarh/leisure-valley.png",
-  "heroImage": "./assets/images/states/chandigarh/leisure-valley.png",
-  "gallery": [
-    "./assets/images/states/chandigarh/leisure-valley.png"
-  ],
-  "nearbyPlaces": [
-    "rose-garden",
-    "garden-of-silence",
-    "international-dolls-museum",
-    "sukhna-lake",
-    "terraced-garden",
-    "capitol-complex",
-    "govt-museum-art-gallery",
-    "le-corbusier-centre",
-    "japanese-garden",
-    "rock-garden"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9a4ccae087e85fbcac7f756d4f6acc2e30ab899379bba3c7de2a529ff1ba43a
+size 1173

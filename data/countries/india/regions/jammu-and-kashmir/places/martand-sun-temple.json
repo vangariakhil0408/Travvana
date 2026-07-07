@@ -1,25 +1,3 @@
-{
-  "id": "martand-sun-temple",
-  "name": "Martand Sun Temple",
-  "city": "Anantnag",
-  "state": "Jammu and Kashmir",
-  "description": "The majestic, colossal ruins of a massive 8th-century Hindu temple dedicated to Surya (the Sun God). It offers a breathtaking example of ancient Kashmiri temple architecture.",
-  "history": "Built by the powerful King Lalitaditya Muktapida of the Karkota dynasty. It was tragically destroyed by Sikandar Shah Miri in the 15th century.",
-  "famousFor": "Massive stone architecture, historical ruins, Bollywood filming (Haider).",
-  "bestTime": "April to October",
-  "timings": "Unknown",
-  "entryFee": "Free",
-  "image": "./assets/images/states/jammu-and-kashmir/martand-sun-temple.png",
-  "heroImage": "./assets/images/states/jammu-and-kashmir/martand-sun-temple.png",
-  "gallery": [
-    "./assets/images/states/jammu-and-kashmir/martand-sun-temple.png"
-  ],
-  "nearbyPlaces": [
-    "kokernag",
-    "verinag-spring",
-    "sinthan-top",
-    "achabal",
-    "chatpal",
-    "daksum"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:970ae5dc458cfde0251666f359545472547253abe34970d9464ea3d1de1b80e3
+size 1044

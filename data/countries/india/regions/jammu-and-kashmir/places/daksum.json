@@ -1,25 +1,3 @@
-{
-  "id": "daksum",
-  "name": "Daksum",
-  "city": "Anantnag",
-  "state": "Jammu and Kashmir",
-  "description": "A deeply hidden, immensely peaceful forested valley situated at an altitude of 2,438 meters. It features thick coniferous forests, gushing streams, and untouched green meadows.",
-  "history": "Acts as the base camp for the challenging trek to the Sinthan Pass.",
-  "famousFor": "Offbeat nature, trout fishing, Bhringi river",
-  "bestTime": "May to September",
-  "timings": "Open 24/7",
-  "entryFee": "Free",
-  "image": "./assets/images/states/jammu-and-kashmir/daksum.png",
-  "heroImage": "./assets/images/states/jammu-and-kashmir/daksum.png",
-  "gallery": [
-    "./assets/images/states/jammu-and-kashmir/daksum.png"
-  ],
-  "nearbyPlaces": [
-    "chatpal",
-    "achabal",
-    "sinthan-top",
-    "verinag-spring",
-    "martand-sun-temple",
-    "kokernag"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:722bffa9ca9cc7cf0288525808e196330c0e7ab30d43b0dfa068062e106912b1
+size 895

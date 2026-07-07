@@ -6,6 +6,7 @@
 import { theme } from './theme.js';
 import { renderNavbar } from './navbar.js';
 import { stateRestoration } from './stateRestoration.js';
+import { initLazyLoader, observeNewImages } from '../utils/lazyLoader.js';
 
 // ── Global Error Handling (H-03) ──
 window.onerror = (message, source, lineno, colno, error) => {
@@ -73,6 +74,16 @@ async function initApp() {
     default:
       console.warn('[App] Unknown page:', page);
   }
+
+  // 7. Initialize lazy image loader after content renders
+  initLazyLoader();
+
+  // 8. Auto-observe dynamically added lazy images via MutationObserver
+  const contentEl = document.getElementById('app-content') || document.body;
+  const mutObs = new MutationObserver(() => {
+    observeNewImages(contentEl);
+  });
+  mutObs.observe(contentEl, { childList: true, subtree: true });
 }
 
 /**

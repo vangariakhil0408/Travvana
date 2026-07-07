@@ -1,20 +1,3 @@
-{
-  "id": "mandu",
-  "name": "Mandu (City of Joy)",
-  "city": "Mandu",
-  "state": "Madhya Pradesh",
-  "description": "A celebration in stone of the legendary romance between Baz Bahadur and Rani Roopmati, this hilltop fortress is home to exquisite Afghan architecture.",
-  "history": "Reached its peak of glory under the Malwa Sultanate in the 15th-16th centuries. It features India's first marble tomb (Hoshang Shah's Tomb).",
-  "famousFor": "Jahaz Mahal, Roopmati Pavilion, and Hoshang Shah Tomb.",
-  "bestTime": "July to March",
-  "timings": "6:00 AM – 7:00 PM",
-  "entryFee": "₹25",
-  "image": "./assets/images/states/madhya-pradesh/Mandu.png",
-  "heroImage": "./assets/images/states/madhya-pradesh/Mandu.png",
-  "gallery": [
-    "./assets/images/states/madhya-pradesh/Mandu.png"
-  ],
-  "nearbyPlaces": [
-    "maheshwar-fort"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dd7b6bba7f21627e507144ed0e4b542fba1e1d2a866e37e7d7e5b9e918d3e87
+size 839

@@ -1,22 +1,3 @@
-{
-  "id": "devka-beach",
-  "name": "Devka Beach",
-  "city": "Daman",
-  "state": "Dadra and Nagar Haveli and Daman and Diu",
-  "description": "A lively, rocky shoreline famous for its adjacent amusement park, musical fountain, and food stalls \u2014 a great spot for family evening strolls rather than swimming.",
-  "history": "Unlike the sandy Jampore, Devka is rocky and known for its tidal pools. The nearby amusement park has long been a staple for local entertainment.",
-  "famousFor": "Rocky shore, amusement park, and evening food stalls.",
-  "bestTime": "October to March",
-  "timings": "Open 24/7",
-  "entryFee": "Free",
-  "image": "./assets/images/states/dadra-nagar-haveli-daman-diu/devka-beach.png",
-  "heroImage": "./assets/images/states/dadra-nagar-haveli-daman-diu/devka-beach.png",
-  "gallery": [
-    "./assets/images/states/dadra-nagar-haveli-daman-diu/devka-beach.png"
-  ],
-  "nearbyPlaces": [
-    "church-of-bom-jesus",
-    "jampore-beach",
-    "moti-daman-fort"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c2866fb92c4d15b9ec06105b74b5777295c31e48a64aa0f2d76c9c31e13c465
+size 1007

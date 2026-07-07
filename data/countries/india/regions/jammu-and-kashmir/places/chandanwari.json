@@ -1,24 +1,3 @@
-{
-  "id": "chandanwari",
-  "name": "Chandanwari",
-  "city": "Pahalgam",
-  "state": "Jammu and Kashmir",
-  "description": "A magnificent snow-covered valley that serves as the official starting point for the holy Amarnath Yatra. It is famous for snow sledding and immense natural beauty.",
-  "history": "It has been the traditional base camp for pilgrims undertaking the strenuous trek to the Amarnath Cave for centuries.",
-  "famousFor": "Amarnath Yatra base camp, snow sledging, scenic drives.",
-  "bestTime": "March to May (Snow), July to August (Yatra)",
-  "timings": "Open 24/7",
-  "entryFee": "Free (Yatra registration extra)",
-  "image": "./assets/images/states/jammu-and-kashmir/chandanwari.png",
-  "heroImage": "./assets/images/states/jammu-and-kashmir/chandanwari.png",
-  "gallery": [
-    "./assets/images/states/jammu-and-kashmir/chandanwari.png"
-  ],
-  "nearbyPlaces": [
-    "betaab-valley",
-    "amarnath-cave",
-    "aru-valley",
-    "tulian-lake",
-    "baisaran-valley"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b8ef8a00266e38b91fb1db5ac8b8b41c767acd8487fb0b3432e8a43b2b37be8
+size 1011

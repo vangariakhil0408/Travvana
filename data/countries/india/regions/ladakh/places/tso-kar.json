@@ -1,30 +1,3 @@
-{
-  "id": "tso-kar",
-  "name": "Tso Kar Lake",
-  "city": "Changthang",
-  "state": "Ladakh",
-  "description": "Known as the 'White Lake' due to the thick crusts of salt surrounding its edges. It is a highly fluctuating salt lake in the remote Rupshu Plateau.",
-  "history": "Historically a major source of salt for the Changpa nomads who traded it for goods across Ladakh and Tibet.",
-  "famousFor": "Salt deposits, Kiangs (Tibetan wild asses), bird watching.",
-  "bestTime": "June to September",
-  "timings": "Open 24/7",
-  "entryFee": "Free",
-  "image": "./assets/images/states/ladakh/file_00000000a5087208a2e5fbb4bbc09368.png",
-  "heroImage": "./assets/images/states/ladakh/file_00000000a5087208a2e5fbb4bbc09368.png",
-  "gallery": [
-    "./assets/images/states/ladakh/file_00000000a5087208a2e5fbb4bbc09368.png"
-  ],
-  "nearbyPlaces": [
-    "chang-la-pass",
-    "magnetic-hill",
-    "thiksey-monastery",
-    "stok-palace",
-    "khardung-la",
-    "pathar-sahib",
-    "leh-city",
-    "leh-palace",
-    "hall-of-fame",
-    "kargil-town",
-    "shanti-stupa"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:14e2a9c2a0ab915f8ec008aa0a285d8687145360f93c8970b3a6761f37733e55
+size 1089

@@ -1,20 +1,3 @@
-{
-  "id": "umling-la",
-  "name": "Umling La Pass",
-  "city": "Hanle",
-  "state": "Ladakh",
-  "description": "Currently holding the Guinness World Record for the highest motorable road in the world at an astounding elevation of 19,300 feet (5,883 m).",
-  "history": "Constructed by the Border Roads Organisation (BRO) under Project Himank and opened to civilians recently.",
-  "famousFor": "Highest motorable road, extreme altitude, rugged landscapes.",
-  "bestTime": "June to September",
-  "timings": "Unknown",
-  "entryFee": "Free (Special permit required)",
-  "image": "./assets/images/states/ladakh/file_000000009d487209bcedd99a7107f7e0.png",
-  "heroImage": "./assets/images/states/ladakh/file_000000009d487209bcedd99a7107f7e0.png",
-  "gallery": [
-    "./assets/images/states/ladakh/file_000000009d487209bcedd99a7107f7e0.png"
-  ],
-  "nearbyPlaces": [
-    "hanle-village"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c0ae74026ea0d80b4791f71b86fb5dc2e4141e33796f9cdb577630b2e62a699
+size 898

@@ -1,21 +1,3 @@
-{
-  "id": "nubra-valley",
-  "name": "Nubra Valley",
-  "city": "Nubra",
-  "state": "Ladakh",
-  "description": "A stunning high-altitude cold desert famous for its sweeping white sand dunes, double-humped Bactrian camels, and massive Maitreya Buddha statue.",
-  "history": "Originally known as Ldumra, meaning the 'valley of flowers'. It was an important stop on the caravan route.",
-  "famousFor": "Hunder sand dunes, Bactrian camels, Diskit Monastery.",
-  "bestTime": "May to September",
-  "timings": "Open 24/7",
-  "entryFee": "Free (Inner Line Permit required)",
-  "image": "./assets/images/states/ladakh/file_00000000090c7208a148f82e2ea3de68.png",
-  "heroImage": "./assets/images/states/ladakh/file_00000000090c7208a148f82e2ea3de68.png",
-  "gallery": [
-    "./assets/images/states/ladakh/file_00000000090c7208a148f82e2ea3de68.png"
-  ],
-  "nearbyPlaces": [
-    "turtuk-village",
-    "diskit-monastery"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb9eb4cf3504fd15c42cbbec3a6c8ec5cc596651493a151baa560cac1c5815f1
+size 929

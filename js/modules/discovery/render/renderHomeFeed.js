@@ -157,7 +157,7 @@ export function destinationCard(dest, from = 'home') {
   const safeLocation = escapeHTML(dest.location);
   const safeId = encodeURIComponent(dest.slug || dest.id);
   const imageHTML = safeImage 
-    ? `<img class="card__image" src="${safeImage}" alt="${safeName}" loading="lazy">`
+    ? `<img class="card__image lazy-img" data-src="${safeImage}" alt="${safeName}" loading="lazy" decoding="async">`
     : `<div class="state-card__gradient" style="background: linear-gradient(135deg, #1a2332 0%, #0f2847 100%); width: 100%; height: 100%;"></div>`;
 
   return `
@@ -184,7 +184,7 @@ function stateCardPremium(state) {
   const attractions = STATE_ATTRACTIONS[state.slug] || '';
 
   const imageHTML = image
-    ? `<img class="card__image" src="${image}" alt="${state.name}" loading="lazy">`
+    ? `<img class="card__image lazy-img" data-src="${image}" alt="${state.name}" loading="lazy" decoding="async">`
     : `<div class="state-card__gradient" style="background: linear-gradient(135deg, #1a2332 0%, #0f2847 100%)"></div>`;
 
   return `
