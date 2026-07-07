@@ -1,0 +1,39 @@
+/* ============================================
+   TRAVVANA — Master Stylesheet
+   Premium Dark Navy & Orange Theme
+   ============================================ */
+
+/* ── Global Styles ── */
+body {
+  background: var(--clr-bg-page-gradient);
+  background-attachment: fixed;
+  color: var(--clr-text-primary);
+  overflow-x: clip;
+  min-height: 100vh;
+}
+
+/* Smooth page transitions */
+.page-transition-enter {
+  opacity: 0;
+  transform: translateY(8px);
+}
+
+.page-transition-active {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 0.3s var(--ease-out), transform 0.3s var(--ease-out);
+}
+
+/* Utility: hidden */
+.hidden { display: none !important; }
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  white-space: nowrap;
+  border: 0;
+}

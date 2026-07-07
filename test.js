@@ -1,0 +1,1 @@
+const { JSDOM } = require('jsdom'); const dom = new JSDOM(\<div id='x'><img onerror=\\\	his.onerror=null;this.style.display='none';var d=document.createElement('div');d.innerHTML='<svg width=\\'32\\'></svg>';this.parentNode.appendChild(d);\\\></div>\); console.log(dom.window.document.getElementById('x').innerHTML);
