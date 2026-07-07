@@ -9,7 +9,14 @@ import { setHTML, skeletonCards, escapeHTML } from '../../../utils/dom.js';
 import { STATE_IMAGES, STATE_ATTRACTIONS } from '../../../data/sharedStateData.js';
 import { unifiedSearchBar } from '../components/searchBar.js';
 
-//* ── All Popular Destinations (linked to assets/images/popular/) ── */
+/**
+ * Convert image path to WebP format (for build-optimized images)
+ */
+function toWebP(imagePath) {
+  if (!imagePath) return '';
+  return imagePath.replace(/\.(png|jpg|jpeg)$/i, '.webp');
+}
+
 export const ALL_DESTINATIONS = [
   { id: 'taj-mahal', name: 'Taj Mahal', location: 'Uttar Pradesh', image: 'assets/images/popular/taj-mahal.jpg', slug: 'taj-mahal', stateId: 'uttar-pradesh' },
   { id: 'golden-temple', name: 'Golden Temple', location: 'Punjab', image: 'assets/images/popular/golden-temple.png', slug: 'golden-temple', stateId: 'punjab' },
@@ -152,7 +159,7 @@ const DESTINATIONS_PER_PAGE = 4;
  * Build a premium destination card (full-image overlay)
  */
 export function destinationCard(dest, from = 'home') {
-  const safeImage = escapeHTML(dest.images?.main || dest.image || '');
+  const safeImage = escapeHTML(toWebP(dest.images?.main || dest.image || ''));
   const safeName = escapeHTML(dest.name);
   const safeLocation = escapeHTML(dest.location);
   const safeId = encodeURIComponent(dest.slug || dest.id);
@@ -180,7 +187,7 @@ export function destinationCard(dest, from = 'home') {
  * Build a premium state card
  */
 function stateCardPremium(state) {
-  const image = STATE_IMAGES[state.slug] || '';
+  const image = toWebP(STATE_IMAGES[state.slug] || '');
   const attractions = STATE_ATTRACTIONS[state.slug] || '';
 
   const imageHTML = image

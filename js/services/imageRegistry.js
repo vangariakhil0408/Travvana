@@ -74,14 +74,14 @@ export function resolveImage(place, stateSlug) {
   if (state === 'delhi') {
     const override = DELHI_OVERRIDES[slug];
     if (override) {
-      return `assets/images/states/delhi/${override}.png`;
+      return `assets/images/states/delhi/${override}.webp`;
     }
-    return `assets/images/states/delhi/${slug}.png`;
+    return `assets/images/states/delhi/${slug}.webp`;
   }
 
   // 4. Try state-level path
   if (state) {
-    return `assets/images/states/${state}/${slug}.png`;
+    return `assets/images/states/${state}/${slug}.webp`;
   }
 
   // 5. Return empty string — NEVER return hero_banner.png
