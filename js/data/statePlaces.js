@@ -4463,7 +4463,7 @@ export const statePlaces = {
         "id": "dholavira",
         "name": "Dholavira",
         "city": "Kutch",
-        "image": "assets/images/states/gujarat/dholavira.png",
+        "image": "assets/images/popular/dholavira.png",
         "rating": 4.5,
         "category": "heritage"
       },
@@ -5452,14 +5452,6 @@ export const statePlaces = {
         "image": "assets/images/states/haryana/star-monument.png",
         "rating": 4.6,
         "category": "heritage"
-      },
-      {
-        "id": "bhadrakali-temple",
-        "name": "Bhadrakali Temple",
-        "city": "Warangal",
-        "image": "assets/images/states/haryana/bhadrakali-temple.png",
-        "rating": 4.7,
-        "category": "temples"
       },
       {
         "id": "barsi-gate",
@@ -11675,7 +11667,7 @@ export const statePlaces = {
         "id": "yingnyushang",
         "name": "Yingnyushang",
         "city": "Longleng",
-        "image": "assets/images/states/nagaland/yingnyushang.png",
+        "image": "assets/images/states/nagaland/Yingnyushang.png",
         "rating": 4.4,
         "category": "hills"
       },
@@ -16235,7 +16227,7 @@ export const statePlaces = {
         "id": "rachakonda-fort",
         "name": "Rachakonda Fort",
         "city": "Rachakonda",
-        "image": "assets/images/states/telangana/rachakonda-fort.png",
+        "image": "assets/images/states/telangana/Rachakonda-Fort.png",
         "rating": 4.3,
         "category": "heritage"
       },
@@ -16669,7 +16661,7 @@ export const statePlaces = {
         "id": "puran-rajbari",
         "name": "Puran Rajbari",
         "city": "Old Agartala",
-        "image": "assets/images/states/tripura/puran-rajbari.png",
+        "image": "assets/images/states/tripura/puran-Rajbari.png",
         "rating": 4.5,
         "category": "heritage"
       },
